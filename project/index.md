@@ -40,7 +40,7 @@ We will follow the published schedule as close as possible for the duration of t
 | 15 | Mon, Apr 6 | _Spring Break_ |
 | 16 | Mon, Apr 13 | - |
 | 17 | Mon, Apr 20 | - |
-| 18 | Mon, Apr 27 | `5/1` Code + Research Document Due |
+| 18 | Mon, Apr 27 | `5/1` Code + Final Report Due |
 | 19 | Mon, May 4 | _AP Exams_ |
 | 20 | Mon, May 11 | _AP Exams_ |
 | 21 | Mon, May 18 | Presentations |
